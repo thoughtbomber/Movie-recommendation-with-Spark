@@ -1,0 +1,28 @@
+{
+  "Q3.2.1" : {
+    "MaeForK=10" : 0.8418503148617845,
+    "MaeForK=50" : 0.7754081594474562,
+    "MaeForK=200" : 0.7485521803931743,
+    "MaeForK=943" : 0.747765339832488,
+    "MaeForK=100" : 0.7562156849043326,
+    "MaeForK=30" : 0.7930624819023586,
+    "MaeForK=800" : 0.7472496495367813,
+    "MaeForK=400" : 0.7473575852408015,
+    "LowestKWithBetterMaeThanBaseline" : 100,
+    "LowestKMaeMinusBaselineMae" : -0.010684315095667474
+  },
+  "Q3.2.2" : {
+    "MinNumberOfBytesForK=400" : 6035200,
+    "MinNumberOfBytesForK=10" : 150880,
+    "MinNumberOfBytesForK=100" : 1508800,
+    "MinNumberOfBytesForK=943" : 14227984,
+    "MinNumberOfBytesForK=50" : 754400,
+    "MinNumberOfBytesForK=200" : 3017600,
+    "MinNumberOfBytesForK=800" : 12070400,
+    "MinNumberOfBytesForK=30" : 452640
+  },
+  "Q3.2.3" : {
+    "SizeOfRamInBytes" : 8589934592,
+    "MaximumNumberOfUsersThatCanFitInRam" : 5368709
+  }
+}

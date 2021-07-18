@@ -1,0 +1,6 @@
+{
+  "Q3.2.5" : {
+    "Top5WithK=30" : [ [ 10, "Richard III (1995)", 5.0 ], [ 57, "Priest (1994)", 5.0 ], [ 59, "Three Colors: Red (1994)", 5.0 ], [ 60, "Three Colors: Blue (1993)", 5.0 ], [ 61, "Three Colors: White (1994)", 5.0 ] ],
+    "Top5WithK=300" : [ [ 113, "Horseman on the Roof", 5.0 ], [ 814, "Great Day in Harlem", 5.0 ], [ 958, "To Live (Huozhe) (1994)", 5.0 ], [ 1062, "Four Days in September (1997)", 5.0 ], [ 1189, "Prefontaine (1997)", 5.0 ] ]
+  }
+}
